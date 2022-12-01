@@ -1,4 +1,4 @@
-![1658062091732](https://user-images.githubusercontent.com/86682774/188520731-a651a0f3-165b-4686-9dce-b1b9da2d0bd5.jpeg)
+![1658062091732](https://user-images.githubusercontent.com/86682774/205100908-5f2f27d4-d691-44e7-b1a8-7ade2d5049fb.jpg)
 
 [![Linkedin Badge](https://img.shields.io/badge/-julieparkdeveloper-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julie-park-developer/)](https://www.linkedin.com/in/julie-park-developer/)
 [![Website Badge](https://img.shields.io/badge/-juliepark.dev-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://juliepark.dev)](https://juliepark.dev)
