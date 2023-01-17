@@ -49,7 +49,8 @@ My dream is to harness my experience in patient-centric care to empower users by
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="50px" id="git" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="50px" id="npm" />
   </div>
-
+<!-- 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/jpark0224/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jpark0224&show_icons=true&title_color=BE7373&icon_color=BE7373&bg_color=EFE0DE" alt="Anurag's github stats" /></a>
 <a href="https://github.com/jpark0224/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpark0224&layout=compact&title_color=BE7373&icon_color=BE7373&bg_color=EFE0DE" /></a>
+ -->
